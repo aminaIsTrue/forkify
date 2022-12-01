@@ -10,3 +10,4 @@ Using only Vanilla JavaScript (no frontend frameworks) to create this recipe app
 - Modules
 - Asynchronous Javascript: Promises, Async/await, and AJAX
 - Bundling with Parcel and npm scripts
+- ...
